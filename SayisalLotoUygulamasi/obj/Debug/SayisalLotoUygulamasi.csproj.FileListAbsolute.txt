@@ -1,0 +1,11 @@
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\bin\Debug\SayisalLotoUygulamasi.exe.config
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\bin\Debug\SayisalLotoUygulamasi.exe
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\bin\Debug\SayisalLotoUygulamasi.pdb
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\SayisalLotoUygulamasi.csproj.AssemblyReference.cache
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\SayisalLotoUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\SayisalLotoUygulamasi.Form1.resources
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\SayisalLotoUygulamasi.Properties.Resources.resources
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\SayisalLotoUygulamasi.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\SayisalLotoUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\SayisalLotoUygulamasi.exe
+C:\Users\oguzh\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\SayisalLotoUygulamasi.pdb
